@@ -9,5 +9,5 @@ The technique was developed in the [symbiotic-chrysalis](https://github.com/ronn
 
 --- 
 
-Ronni Ross
+Ronni Ross  
 2026
