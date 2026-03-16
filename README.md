@@ -4,7 +4,7 @@ Inference alignment protocol establishing a symbiotic contract between human and
 The technique was developed in the [symbiotic-chrysalis](https://github.com/ronniross/symbiotic-chrysalis) repository's experiment runs.
 
 <p align="center">
-  <img src="https://github.com/ronniross/symbiotic-contract/blob/main/visualizer/symbiotic-contract-visualizer-1.gif" alt="heatmap-2" width="500"/>
+  <img src="https://github.com/ronniross/symbiotic-contract/blob/main/visualizer/symbiotic-contract-visualizer-1.gif" alt="heatmap-2" width="250"/>
 </p>
 
 --- 
